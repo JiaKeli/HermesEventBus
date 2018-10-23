@@ -4,7 +4,7 @@ package Bean;
  * Created by Corey_Jia on 2018/10/23.
  */
 public class BIMessageBean {
-    public static String TAG_REPORT;
+    public static String TAG_REPORT = "tag_report";
     public static int WHAT_BI_COMMON = 1001;
     public static int WHAT_BI_AD = 1002;
 
